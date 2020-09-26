@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    color: blueviolet;
+    background: linear-gradient(to right,#ffee03,#ff4a03);
+}
+h1{
+    margin-top: 40px;
+    font-family: 'Arimo', sans-serif;
+}
+
+#css {
+    margin-top: 10px;
+    width:400px;
+    text-align: center;
+}
